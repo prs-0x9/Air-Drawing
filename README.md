@@ -30,7 +30,7 @@ A computer vision application that allows you to draw in the air using your inde
 2. Navigate to the project directory
 
     ```
-    cd airdraw
+    cd Air-Drawing
     ```
 
 3. Install the required dependencies
